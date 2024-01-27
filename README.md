@@ -1,10 +1,13 @@
 <!--Titulo de Inicio-->
 <h1 align="center">Hi, I'm Josue Renteria Arriaga<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<!--Description od me-->
-<h3 font-size="20" align="center">
-  Computer Systems Engineering student with a solid background in frontend, backend, database and machine learning development. </br> </br>
-</h3>
+<!--Description of me-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=3000&pause=200&color=538AF7&center=true&vCenter=true&random=false&width=470&lines=Computer+Systems+Engineering+student+with+a+;solid+background+in+frontend%2C+backend%2C;database+and+machine+learning+development." alt="Typing SVG" />
+  </a>
+    </br>
+</div>
 
 ---
 
@@ -93,13 +96,15 @@
 <h3 style="margin: 5px 10px;">Github stats📊:</h3> </br>
 
 <div align="center">
+  <!--Stats-->
   <a href="https://github.com/JosueRenteria">
     <img alt="Josue Renteria Github Stats" src="https://github-readme-stats.vercel.app/api?username=JosueRenteria&show_icons=true&theme=transparent"/>
   </a>
+  <!--Streak-->
   <a href="https://github.com/JosueRenteria">
     <img alt="Josue Renteria Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRenteria&theme=transparent"/>
   </a>
-  
+  <!--Top Languages-->
   <a href="https://github.com/JosueRenteria">
     <img alt="Josue Renteria Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRenteria&langs_count=8&count_private=true&layout=compact&theme=transparent&bg_color=0D1117"/>
   </a>
