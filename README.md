@@ -1,27 +1,16 @@
-### Hi there 👋
+<!--Titulo de Inicio-->
+<h1 align="center">Hi, I'm Josue Renteria Arriaga<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<!--
-**JosueRenteria/JosueRenteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Description od me-->
+<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
-Here are some ideas to get you started:
+<!--My skills-->
+<img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Contact us
-
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+- 🌱 I'm currently learning **Web Programming Frameworks** 
+- 👯 I'm looking to collaborate on the Spring Framework
+- 🤝 I'm looking for help with **Frontend Design**
+- 🧳 All my projects are available [@JosueRenteria 👨 💻 ](github.com/JosueRenteria)
+- 💬 Ask me about Convolutional Neural 😆 Networks
+- ⚡ Fun fact: **Programming is a passion and not a profession.**
+- 👨‍⚕️ At the moment I am working on a project of **Convolutional Neural Networks for the detection of pneumonia.**
