@@ -83,54 +83,40 @@
 
 <!--Apartado de Contactos-->
 <details open>
-  <summary><h3>Connect with me:</h3></summary>
+  <summary><h3>Connect with me📲:</h3></summary>
   
 </details>
 
 ---
 
 <!--Apartado de Stats de Github-->
+<h3 style="margin: 5px 10px;">Github stats📊:</h3> </br>
+
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+  <a href="https://github.com/JosueRenteria">
+    <img alt="Josue Renteria Github Stats" src="https://github-readme-stats.vercel.app/api?username=JosueRenteria&show_icons=true&theme=transparent"/>
+  </a>
+  <a href="https://github.com/JosueRenteria">
+    <img alt="Josue Renteria Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRenteria&theme=transparent"/>
+  </a>
+  
+  <a href="https://github.com/JosueRenteria">
+    <img alt="Josue Renteria Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRenteria&langs_count=8&count_private=true&layout=compact&theme=transparent&bg_color=0D1117"/>
+  </a>
 </div>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 ----
 
+<!--Apartado de Actividad-->
+<h3 style="margin: 5px 10px;">Activity on GitHub⏳:</h3> 
 
-
-[![](https://github-readme-stats.vercel.app/api?username=JosueRenteria&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosueRenteria)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JosueRenteria&theme=material-palenight)](https://github.com/JosueRenteria)
-
-
-----
-
+<!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-
+  <img  src="https://github.com/JosueRenteria/JosueRenteria/blob/main/github-user-contribution.svg" alt="example"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ------
+
 Credit: [Elanza-48](https://github.com/Elanza-48)
 
 
