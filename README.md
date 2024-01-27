@@ -81,6 +81,58 @@
 
 ---
 
+<!--Apartado de Contactos-->
+<details open>
+  <summary><h3>Connect with me:</h3></summary>
+  
+</details>
+
+---
+
+<!--Apartado de Stats de Github-->
+<div align="center">
+  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+
+
+[![](https://github-readme-stats.vercel.app/api?username=JosueRenteria&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosueRenteria)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JosueRenteria&theme=material-palenight)](https://github.com/JosueRenteria)
+
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+------
+Credit: [Elanza-48](https://github.com/Elanza-48)
+
 
 
 
