@@ -113,7 +113,7 @@
   </a>
   <!--Streak-->
   <a href="https://github.com/JosueRenteria">
-    <img alt="Josue Renteria Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRenteria&theme=transparent"/>
+    <img alt="Josue Renteria Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRenteria&theme=transparent"/></br>
   </a>
   <!--Top Languages-->
   <a href="https://github.com/JosueRenteria">
